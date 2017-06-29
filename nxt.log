@@ -1,0 +1,61 @@
+[2017-06-21 13:46:11.701] Debug logging disabled
+[2017-06-21 13:46:11.701] Exception stack traces enabled
+[2017-06-21 13:46:11.701] logging enabled
+[2017-06-21 13:46:11.701] nxt.debugJetty = "false"
+[2017-06-21 13:46:11.701] nxt.dbCacheKB = "0"
+[2017-06-21 13:46:11.701] 内存大小------------------> mem=921344
+[2017-06-21 13:46:11.701] nxt.isTestnet = "false"
+[2017-06-21 13:46:11.701] nxt.dbUrl = "jdbc:h2:nxt_db/nxt;DB_CLOSE_ON_EXIT=FALSE"
+[2017-06-21 13:46:11.723] nxt.maxDbConnections = "10"
+[2017-06-21 13:46:11.723] nxt.dbLoginTimeout = "70"
+[2017-06-21 13:46:11.723] nxt.dbDefaultLockTimeout = "10"
+[2017-06-21 13:46:14.384] next_update---------> next_update=52
+[2017-06-21 13:46:14.384] Database is at level 51
+[2017-06-21 13:46:14.414] nxt.myPlatform = "PC"
+[2017-06-21 13:46:14.414] nxt.myAddress not defined
+[2017-06-21 13:46:14.414] nxt.peerServerPort = "7874"
+[2017-06-21 13:46:14.414] nxt.shareMyAddress = "true"
+[2017-06-21 13:46:14.415] nxt.myHallmark not defined
+[2017-06-21 13:46:14.415] nxt.wellKnownPeers not defined
+[2017-06-21 13:46:14.415] nxt.knownBlacklistedPeers not defined
+[2017-06-21 13:46:14.415] nxt.maxNumberOfConnectedPublicPeers = "20"
+[2017-06-21 13:46:14.415] nxt.connectTimeout = "4000"
+[2017-06-21 13:46:14.415] nxt.readTimeout = "8000"
+[2017-06-21 13:46:14.415] nxt.enableHallmarkProtection = "true"
+[2017-06-21 13:46:14.415] nxt.pushThreshold = "0"
+[2017-06-21 13:46:14.415] nxt.pullThreshold = "0"
+[2017-06-21 13:46:14.415] nxt.blacklistingPeriod = "300000"
+[2017-06-21 13:46:14.416] nxt.communicationLoggingMask = "0"
+[2017-06-21 13:46:14.416] nxt.sendToPeersLimit = "10"
+[2017-06-21 13:46:14.416] nxt.usePeersDb = "true"
+[2017-06-21 13:46:14.448] nxt.savePeers = "true"
+[2017-06-21 13:46:14.492] nxt.peerServerHost = "0.0.0.0"
+[2017-06-21 13:46:14.492] nxt.peerServerIdleTimeout = "15000"
+[2017-06-21 13:46:14.508] nxt.enablePeerServerDoSFilter = "true"
+[2017-06-21 13:46:14.512] nxt.peerServerDoSFilter.maxRequestsPerSec = "30"
+[2017-06-21 13:46:14.512] nxt.peerServerDoSFilter.delayMs = "1000"
+[2017-06-21 13:46:14.512] nxt.peerServerDoSFilter.maxRequestMs = "300000"
+[2017-06-21 13:46:14.516] nxt.allowedBotHosts = "127.0.0.1; localhost; [0:0:0:0:0:0:0:1];"
+[2017-06-21 13:46:14.516] nxt.enableAPIServer = "true"
+[2017-06-21 13:46:14.516] nxt.apiServerPort = "7876"
+[2017-06-21 13:46:14.516] nxt.apiServerHost = "127.0.0.1"
+[2017-06-21 13:46:14.516] nxt.apiSSL = "false"
+[2017-06-21 13:46:14.516] nxt.apiServerIdleTimeout = "30000"
+[2017-06-21 13:46:14.516] nxt.apiResourceBase = "html/ui"
+[2017-06-21 13:46:14.535] nxt.javadocResourceBase = "html/doc"
+[2017-06-21 13:46:14.544] nxt.apiServerCORS = "false"
+[2017-06-21 13:46:14.548] nxt.allowedUserHosts = "127.0.0.1; localhost; [0:0:0:0:0:0:0:1];"
+[2017-06-21 13:46:14.548] nxt.enableUIServer = "false"
+[2017-06-21 13:46:14.548] User interface server not enabled
+[2017-06-21 13:46:14.552] nxt.debugTraceQuote = """
+[2017-06-21 13:46:14.552] nxt.debugTraceSeparator = "	"
+[2017-06-21 13:46:14.552] nxt.debugTraceAccounts not defined
+[2017-06-21 13:46:14.552] nxt.debugTraceLog = "nxt-trace.csv"
+[2017-06-21 13:46:14.556] Genesis block already in database
+[2017-06-21 13:46:14.556] Scanning blockchain...
+[2017-06-21 13:46:14.740] processed block 0
+[2017-06-21 13:46:14.740] ...done
+[2017-06-21 13:46:14.908] Started peer networking server at 0.0.0.0:7874
+[2017-06-21 13:46:14.916] Started API server at 127.0.0.1:7876
+[2017-06-21 13:46:14.916] Nxt server 1.1.0 started successfully.
+[2017-06-21 13:46:39.399] nxt.apiServerEnforcePOST = "true"
